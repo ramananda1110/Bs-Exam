@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android Test</string>
+    <string name="check_internet_connection">Please check your internet connection</string>
+    <string name="text_gallery">Gallery</string>
+    <string name="text_about">About</string>
+    <string name="text_list">List</string>
+    <string name="about_me">I am Ramananda sarkar . I am a professional mobile app developer. I have developed
+        lot of apps of different types like chat-apps,audio-video calling apps, job apps, health related apps etc\nI like helping people and i get excitement afet helping people in trouble.\nmobile :+8801738039685\nemail : cserama.tpi@gmail.com</string>
+</resources>

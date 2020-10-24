@@ -1,0 +1,8 @@
+<resources>
+
+
+
+    <dimen name="custom_top_shadow_corner_radius">20dp</dimen>
+    <dimen name="custom_top_shadow_background_radius">25dp</dimen>
+
+</resources>
