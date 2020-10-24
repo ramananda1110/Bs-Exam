@@ -27,7 +27,7 @@
             android:padding="@dimen/_4sdp"
             android:textSize="@dimen/_12sdp"
             android:textStyle="bold"
-            android:text="version- 1.0.0" />
+            android:text="@string/version_1_0_0" />
 
     </LinearLayout>
 </layout>
