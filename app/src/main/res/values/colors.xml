@@ -2,12 +2,8 @@
 <resources>
     <color name="primaryColor">#2A5CA2</color>
     <color name="secondaryColor">#FFBB86FC</color>
-    <color name="AssentColor">#FF3700B3</color>
     <color name="teal_200">#44b3e6</color>
-    <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="gray">#999999</color>
 
-    <color name="light_white">#E8E8E8</color>
 </resources>
