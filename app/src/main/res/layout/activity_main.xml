@@ -9,7 +9,7 @@
         android:layout_height="match_parent"
         android:background="@color/white"
         android:orientation="vertical"
-        tools:context=".view.MainActivity">
+        tools:context="com.bs.exam.view.activites.MainActivity">
 
         <com.google.android.material.bottomnavigation.BottomNavigationView
             android:id="@+id/bottom_navigation"
@@ -20,7 +20,7 @@
             app:labelVisibilityMode="labeled"
             app:menu="@menu/main_tab_menu" />
 
-        <com.orko.androidtestproject.utils.CustomViewPager
+        <com.bs.exam.utils.CustomViewPager
             android:id="@+id/viewpager"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
